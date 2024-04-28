@@ -1,0 +1,45 @@
+.main{
+width: 100%;
+height: 500px;
+border-bottom: 3px solid rgb(39, 36, 36);
+background-color: rgb(48, 46, 46);
+overflow: hidden;
+display: flex;
+align-items: center;
+justify-content: space-around;
+position: relative;
+}
+.card{
+width: 600px;
+height: 300px;
+background-color: rgb(19, 95, 70);
+
+
+
+
+}
+.card1{
+    width: 400px;
+    height: 300px;
+    text-align: center;
+
+    }
+    h3{
+    margin-top: 10px;
+    color: grey;
+    }
+    p{
+        margin-top: 10px;
+        color: grey;
+        font-size: 18px;
+    
+    
+    
+        }
+        h5{
+
+            color: white;
+            font-size: 50px;
+            margin-top: 350px;margin-right: -10px;
+            position: absolute;
+        }

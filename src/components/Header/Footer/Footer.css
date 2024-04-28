@@ -1,0 +1,40 @@
+.footer{
+width: 800px;
+height: 300px;
+margin: auto;
+background-color: white;
+display: flex;
+position: relative;
+justify-content: space-around;
+
+}
+.okay{
+color: black;
+font-size: 30px;
+position: absolute;
+
+
+
+}
+
+
+
+
+.card3{
+width: 200px;
+height: 150px;
+background-color: aqua;
+margin-top: 60px;
+}
+.card4{
+    width: 200px;
+    height: 150px;
+    background-color: aqua;
+    margin-top: 60px;
+    }
+    .card5{
+        width: 200px;
+        height: 150px;
+        background-color: aqua;
+        margin-top: 60px;
+        }
